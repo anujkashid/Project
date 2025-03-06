@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.6289af50.css",
-    "main.js": "/project/static/js/main.ac3f6570.js",
-    "static/js/453.e1a840e2.chunk.js": "/project/static/js/453.e1a840e2.chunk.js",
-    "static/media/cta-bg.jpg": "/project/static/media/cta-bg.3f61c6a3ac66d0eb8909.jpg",
-    "static/media/hero-bg.jpg": "/project/static/media/hero-bg.79a6a34d4fc0a0e7e597.jpg",
-    "static/media/masonry-portfolio-2.jpg": "/project/static/media/masonry-portfolio-2.c082025dddeb09057e14.jpg",
-    "static/media/faq.jpg": "/project/static/media/faq.001b199c087c2fa4ee03.jpg",
-    "static/media/stats-bg.jpg": "/project/static/media/stats-bg.0932cabc9a5752d0455f.jpg",
-    "static/media/features-bg.jpg": "/project/static/media/features-bg.6d02393b972240830f51.jpg",
-    "static/media/masonry-portfolio-7.jpg": "/project/static/media/masonry-portfolio-7.a73da5d72b214ffa0637.jpg",
-    "static/media/masonry-portfolio-8.jpg": "/project/static/media/masonry-portfolio-8.3c46c6c1343ceb2aeb74.jpg",
-    "static/media/masonry-portfolio-1.jpg": "/project/static/media/masonry-portfolio-1.f8a4f20b1b6d6ee85702.jpg",
-    "static/media/masonry-portfolio-9.jpg": "/project/static/media/masonry-portfolio-9.fbfa970774a6b6c830d0.jpg",
-    "static/media/masonry-portfolio-5.jpg": "/project/static/media/masonry-portfolio-5.940ac6c8dea7f45f338f.jpg",
-    "static/media/masonry-portfolio-3.jpg": "/project/static/media/masonry-portfolio-3.fc9e27e7017aebbcbf06.jpg",
-    "static/media/masonry-portfolio-4.jpg": "/project/static/media/masonry-portfolio-4.ab6a84ccac895007e9c3.jpg",
-    "static/media/avatar-1.webp": "/project/static/media/avatar-1.b589c2aa391374b61d77.webp",
-    "index.html": "/project/index.html",
-    "main.6289af50.css.map": "/project/static/css/main.6289af50.css.map",
-    "main.ac3f6570.js.map": "/project/static/js/main.ac3f6570.js.map",
-    "453.e1a840e2.chunk.js.map": "/project/static/js/453.e1a840e2.chunk.js.map"
+    "main.css": "/Project/static/css/main.23e18dfd.css",
+    "main.js": "/Project/static/js/main.8ae0a3fd.js",
+    "static/js/453.e1a840e2.chunk.js": "/Project/static/js/453.e1a840e2.chunk.js",
+    "static/media/cta-bg.jpg": "/Project/static/media/cta-bg.3f61c6a3ac66d0eb8909.jpg",
+    "static/media/hero-bg.jpg": "/Project/static/media/hero-bg.79a6a34d4fc0a0e7e597.jpg",
+    "static/media/masonry-portfolio-2.jpg": "/Project/static/media/masonry-portfolio-2.c082025dddeb09057e14.jpg",
+    "static/media/faq.jpg": "/Project/static/media/faq.001b199c087c2fa4ee03.jpg",
+    "static/media/stats-bg.jpg": "/Project/static/media/stats-bg.0932cabc9a5752d0455f.jpg",
+    "static/media/features-bg.jpg": "/Project/static/media/features-bg.6d02393b972240830f51.jpg",
+    "static/media/masonry-portfolio-7.jpg": "/Project/static/media/masonry-portfolio-7.a73da5d72b214ffa0637.jpg",
+    "static/media/masonry-portfolio-8.jpg": "/Project/static/media/masonry-portfolio-8.3c46c6c1343ceb2aeb74.jpg",
+    "static/media/masonry-portfolio-1.jpg": "/Project/static/media/masonry-portfolio-1.f8a4f20b1b6d6ee85702.jpg",
+    "static/media/masonry-portfolio-9.jpg": "/Project/static/media/masonry-portfolio-9.fbfa970774a6b6c830d0.jpg",
+    "static/media/masonry-portfolio-5.jpg": "/Project/static/media/masonry-portfolio-5.940ac6c8dea7f45f338f.jpg",
+    "static/media/masonry-portfolio-3.jpg": "/Project/static/media/masonry-portfolio-3.fc9e27e7017aebbcbf06.jpg",
+    "static/media/masonry-portfolio-4.jpg": "/Project/static/media/masonry-portfolio-4.ab6a84ccac895007e9c3.jpg",
+    "static/media/avatar-1.webp": "/Project/static/media/avatar-1.b589c2aa391374b61d77.webp",
+    "index.html": "/Project/index.html",
+    "main.23e18dfd.css.map": "/Project/static/css/main.23e18dfd.css.map",
+    "main.8ae0a3fd.js.map": "/Project/static/js/main.8ae0a3fd.js.map",
+    "453.e1a840e2.chunk.js.map": "/Project/static/js/453.e1a840e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6289af50.css",
-    "static/js/main.ac3f6570.js"
+    "static/css/main.23e18dfd.css",
+    "static/js/main.8ae0a3fd.js"
   ]
 }
