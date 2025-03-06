@@ -1,0 +1,78 @@
+.head-navbar{
+    background-color:rgba(35, 35, 35, 0.7);
+}
+.home-section{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+     url("./Assets/img/hero-bg.jpg") center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    /* font-weight: 900; */
+}
+
+.services-section{
+    margin: 50px 50px 50px 50px;
+}
+.circle{
+    border-radius: 50%;
+    background-color: #009961;
+    width: 160px;
+    height: 160px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.services-card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about-rows{
+    padding: 30px;
+}
+.features-img{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+     url("./Assets/img/cta-bg.jpg") center center no-repeat;
+    height: 300px;
+    /* width: 100%; */
+    background-size:cover;
+}
+.features-client{
+    width: 180px;
+    height: 40px;
+}
+.features-stats{
+    background-color:black;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("./Assets/img/stats-bg.jpg");
+    height: 350px;
+    width: 100%;
+    color: white;
+    
+}
+
+.pricing-sup{
+    font-size: 20px;
+    color: green;
+    
+}
+.pricing-price{
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    color: green;
+    
+}
+.pricing-duaration{
+    font-size: 16px;
+}
+.circle1{
+    border-radius: 50%;
+    background-color: #009961;
+    width: 40px;
+    height: 40px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.linethrough{
+    text-decoration: line-through;
+}
