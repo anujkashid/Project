@@ -1,7 +1,7 @@
 import './App.css';
 import Home from './component/Home.jsx'
 import Head from './component/Head.jsx'
-import { Routes, Route, HashRouter  } from 'react-router-dom'
+import { Routes, Route, HashRouter as Router  } from 'react-router-dom'
 import Login from './component/Login.jsx';
 import UserRegistration from './component/UserRegistration.jsx';
 import Profile from './component/Profile.jsx';
@@ -11,7 +11,7 @@ import Profile_head from './component/Profile_head.jsx';
 function App() {
   return (
     <>
-     <HashRouter>
+     <Router>
      {/* <Home/> */}
      {/* <Head /> */}
        <Routes>
@@ -21,7 +21,7 @@ function App() {
              <Route path="/registration" element={<UserRegistration />} />
              <Route path="/profile_head" element={<Profile_head />} />
         </Routes>
-      </HashRouter>
+      </Router>
     </>
   );
 }
