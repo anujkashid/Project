@@ -55,6 +55,7 @@ const Login = () => {
             {serverError && <Alert variant="danger">{serverError}</Alert>}
           </Card.Title>
           <Card.Text>
+          <Button variant="success"> Go to Dashboard</Button>
             <Form onSubmit={handleSubmit}>
               <Form.Group className="mb-5" controlId="formBasicEmail">
                 <Form.Label>
